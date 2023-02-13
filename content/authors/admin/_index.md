@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Chaoyu Yang is a postdocor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettablity. He leads the several research programms such as massive production of tailored emulsions, bioinspired nonspherical microparticles and programmale microfibers from piezoelectric microfluidics Robotic Neurobiology group, which develops self-reconfiguring robots, systems.
+Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettability. He leads the several research programs such as massive production of tailored emulsions, bioinspired non-spherical microparticles and programmable microfibers from piezoelectric microfluidics Robotic Neurobiology group, which develops self-reconfiguring robots, systems.
 {style="text-align: justify;"}
