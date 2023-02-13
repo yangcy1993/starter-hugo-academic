@@ -49,7 +49,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: envelopes
     icon_pack: fas
     link: 'yu0326@mail.ustc.edu.cn'
   #- icon: twitter
@@ -58,8 +58,8 @@ social:
   #  label: Follow me on Twitter
   #  display:
   #  header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=IvQEGk8AAAAJ
   #- icon: github
   #  icon_pack: fab
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettability. He leads the several research programs such as massive production of tailored emulsions, bioinspired non-spherical microparticles and programmable knotted microfibers from piezoelectric microfluidics Robotic.
+Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettability. He leads the several research programs such as massive production of tailored emulsions, bioinspired non-spherical microparticles and programmable knotted microfibers from piezoelectric microfluidics.
 {style="text-align: justify;"}
