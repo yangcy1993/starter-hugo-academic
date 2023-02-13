@@ -42,15 +42,11 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: features
+  <!-- - block: features
     content:
       title: Skills
       items:
         - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-		- name: R1
           description: 90%
           icon: r-project
           icon_pack: fab
@@ -61,7 +57,7 @@ sections:
         - name: Photography
           description: 10%
           icon: camera-retro
-          icon_pack: fas
+          icon_pack: fas -->
   - block: experience
     content:
       title: Experience
