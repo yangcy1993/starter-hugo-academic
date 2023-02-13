@@ -1,7 +1,7 @@
 ---
 # Display name
 #title: Alice Wu
-title: Chaoyu Yang 吳恩達
+title: Chaoyu Yang
 
 # Full name (for SEO)
 first_name: Alice
@@ -72,7 +72,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf.pdf
+    link: uploads/CV_YangCY.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
