@@ -52,12 +52,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'yu0326@mail.ustc.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #  label: Follow me on Twitter
+  #  display:
+  #  header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=zh-CN&user=IvQEGk8AAAAJ
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettability. He leads the several research programs such as massive production of tailored emulsions, bioinspired non-spherical microparticles and programmable microfibers from piezoelectric microfluidics Robotic Neurobiology group, which develops self-reconfiguring robots, systems.
+Chaoyu Yang is a postdoctor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettability. He leads the several research programs such as massive production of tailored emulsions, bioinspired non-spherical microparticles and programmable knotted microfibers from piezoelectric microfluidics Robotic.
 {style="text-align: justify;"}
