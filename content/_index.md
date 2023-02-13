@@ -50,6 +50,10 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
+		- name: R
+          description: 100%
+          icon: r-project
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
