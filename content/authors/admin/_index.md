@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+#title: Alice Wu 吳恩達
+title: Chaoyu Yang 吳恩達
 
 # Full name (for SEO)
 first_name: Alice
