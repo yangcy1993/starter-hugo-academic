@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Chaoyu Yang
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Chaoyu
-last_name: Yang
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -14,24 +14,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoc of University of Chinese Academy and Science (UCAS)
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Chinese Academy and Science (UCAS)
-    url: https://www.ucas.ac.cn/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettablity.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Microfluidics
-  - Nature-inspired engineering
-  - fluid dynamics
-  - Droplet
-  - Wettablity
-
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -45,13 +42,6 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-	- course: Ph.D. in Mechanical Engineering
-      institution: University of Science and Technology of China (USTC)
-      year: 2020
-    - course: B.S. in Mechanical Engineering 
-      institution: University of Science and Technology of China (USTC)
-      year: 2015
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
