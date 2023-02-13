@@ -1,6 +1,6 @@
 ---
 # Generate Wowchemy CMS
-type: Chaoyu Yang
+type: wowchemycms
 private: true
 outputs:
   - wowchemycms_config
