@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chaoyu Yang is a postdocor of University of Chinese Academy and Science. His research interests include microfluidics, fluid dynamics, nature-inspired engineering, droplet, wettablity. He leads the several research programms such as massive production of tailored emulsions, bioinspired nonspherical microparticles and programmale microfibers from piezoelectric microfluidics Robotic Neurobiology group, which develops self-reconfiguring robots, systems.
 {style="text-align: justify;"}
